@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<quiz>
+  <title>Sample Quiz (2/20/2002)</title>
+    <questions>
+    
+     <question>
+        <quizquestion>કયી રસોઈ પદ્ધતિ એ સૌથી ઓછી આરોગ્યપ્રદ છે ?</quizquestion>
+        <answer>ગ્રિલ</answer>
+        <answer>બાફવું</answer>
+        <answer>તળેલું</answer>
+        <answer>બ્રોઇંગ</answer>
+        <correct>2</correct>
+      </question>	 	   
+	  
+	<question>
+        <quizquestion>એક વસ્તુની કિંમત 1000 રૂપિયા છે. દર વર્ષે તે 20% વધે છે , તે 2 વર્ષ પછી ભાવ શું હશે ?</quizquestion>
+        <answer>1200</answer>
+        <answer>1220</answer>
+        <answer>1400</answer>
+        <answer>1440</answer>
+        <correct>3</correct>
+      </question>	
+      	
+	<question>
+        <quizquestion>શ્રેણીની ઓળખ કરવી  --  1,4,10,22,46,94, __ ??</quizquestion>
+        <answer>142</answer>
+        <answer>190</answer>
+        <answer>170</answer>
+        <answer>150</answer>
+        <correct>1</correct>
+      </question>	
+  
+      <question>
+        <quizquestion>વિશ્વમાં સૌથી મોટો દેશ ? </quizquestion>
+        <answer>રશિયા</answer>
+        <answer>કેનેડા</answer>
+        <answer>અમેરિકા</answer>
+        <answer>ભારત</answer>
+        <correct>0</correct>
+      </question>
+
+      <question>
+        <quizquestion>કયા વર્ષમાં રાષ્ટ્રગીત સૌ પ્રથમ ગાવાયુ હતું ? </quizquestion>
+        <answer>1911</answer>
+        <answer>1913</answer>
+        <answer>1936</answer>
+        <answer>1935</answer>
+        <correct>0</correct>
+      </question>
+
+<question>
+        <quizquestion>Android નુ છેલ્લામાં છેલ્લું  વર્ઝન </quizquestion>
+        <answer>Orange</answer>
+        <answer>Nougat</answer>
+        <answer>Oreo</answer>
+        <answer>Marshmallow</answer>
+        <correct>2</correct>
+      </question>
+
+
+<question>
+        <quizquestion>20 મી સદીના છેલ્લા મહાકુંભ ક્યાં યોજવામાં આવ્યો હતો</quizquestion>
+        <answer>નાસિક</answer>
+        <answer>ઉજ્જૈન</answer>
+        <answer>અલ્હાબાદ</answer>
+        <answer>હરિદ્વાર</answer>
+        <correct>3</correct>
+      </question>	
+
+<question>
+        <quizquestion>કયો શબ્દ અન્ય શબ્દો સાથે સંબંધ ધારાવતો નથી?</quizquestion>
+        <answer>ટાયર</answer>
+        <answer>સ્ટિયરિંગ વ્હીલ</answer>
+        <answer>એન્જિન</answer>
+        <answer>કાર</answer>
+        <correct>3</correct>
+      </question>	
+
+	<question>
+        <quizquestion>63 મી જિયો ફિલ્મફેર એવોર્ડ્સ 2018 માં નીચે મુજબ કયો ફિલ્મ શ્રેષ્ઠ એવોર્ડ જીત્યો છે?</quizquestion>
+        <answer>Bareilly Ki Barfi</answer>
+        <answer>Hindi Medium</answer>
+        <answer>Toilet : Ek Prem Katha</answer>
+        <answer>Newton</answer>
+        <correct>1</correct>
+      </question>	
+
+<question>
+        <quizquestion>મહાકાવ્ય રામાયણમાં, કયા પક્ષીએ રાવણથી સીતાને બચાવાનો પ્રયત્ન કર્યો હતો?</quizquestion>
+        <answer>વિભિશણ</answer>
+        <answer>જટાયુ</answer>
+        <answer>ગરુડ</answer>
+        <answer>ભૂલિંગ</answer>
+        <correct>1</correct>
+      </question>	
+
+
+<question>
+        <quizquestion>ગુજરાત રાજ્યનાં કયું શહેર જરી ઉત્પાદન માટે જાણીતું છે?</quizquestion>
+        <answer>સુરત</answer>
+        <answer>રાજકોટ</answer>
+        <answer>સુરેન્દ્રનગર</answer>
+        <answer>અમદાવાદ</answer>
+        <correct>0</correct>
+      </question>	
+
+
+<question>
+        <quizquestion>'મિલે હો તુમ હમકો ' કોને ગાયું છે? </quizquestion>
+        <answer>સનીતિ મોહન </answer>
+        <answer>મોનાલી ઠાકુર</answer>
+        <answer>સુનિધિ ચૌહાણ</answer>
+        <answer>નેહા કક્કર</answer>
+        <correct>3</correct>
+      </question>	
+
+<question>
+        <quizquestion>માઉન્ટ એવરેસ્ટ ક્યાં સ્થિત છે? </quizquestion>
+        <answer>ભારત</answer>
+        <answer>નેપાલ</answer>
+        <answer>ચાઇના</answer>
+        <answer>તિબેટ</answer>
+        <correct>1</correct>
+      </question>	
+
+<question>
+        <quizquestion>કયા પાંડવએ દુશાશનને દ્રૌપદી સાથે સતામણી કર્યા પછી મારી નાખવાનો અને તેનું લોહી પીવા માટેની પ્રતિજ્ઞા લીધી હતી?</quizquestion>
+        <answer>સહદેવ </answer>
+        <answer>અર્જુન</answer>
+        <answer>ભીમસેન</answer>
+        <answer>નકુલ</answer>
+        <correct>2</correct>
+      </question>	
+
+<question>
+        <quizquestion>ડો. કલામના નામમાં "એપીજે" નું પૂરું નામ શું છે?</quizquestion>
+        <answer>એહમદ પંડવાલા જૈન</answer>
+        <answer>અવુલ પાકીર જૈનુલાબ્દિન</answer>
+        <answer>અલી પોન્નુસ્વામી જંપીરુ</answer>
+        <answer>અકબર પાંનેર જલંત</answer>
+        <correct>1</correct>
+      </question>	
+
+<question>
+        <quizquestion>કયું મૂવી જેમાં શાહરુખ ખાન વિલન હતો ?</quizquestion>
+        <answer>Bazigar </answer>
+        <answer>Darr </answer>
+        <answer>Deewana </answer>
+        <answer>Dil Ashna Hai</answer>
+        <correct>1</correct>
+      </question>	
+
+<question>
+        <quizquestion>ભારતમાં પ્રથમ વનડે મેચ ક્યાં રમવામાં આવી હતી?</quizquestion>
+        <answer>નવી દિલ્હી</answer>
+        <answer>અમદાવાદ</answer>
+        <answer>કોલકાતા</answer>
+        <answer>મુંબઈ</answer>
+        <correct>1</correct>
+      </question>	
+
+<question>
+        <quizquestion>ડિરેક્ટર એસ એસ રાજમૌલી બાહુબલીમાં કયી એક નાનકડી ભૂમિકા ભજવે છે?</quizquestion>
+        <answer>મહિશમિતિ ગુલામ</answer>
+        <answer>કાલકેયા સૈનિક</answer>
+        <answer>દારૂ વેચનાર</answer>
+        <answer>સેનાપતિ</answer>
+        <correct>2</correct>
+      </question>	
+<question>
+        <quizquestion>સૌર મંડળમાં સૌથી ગરમ ગ્રહ કયો ? </quizquestion>
+        <answer>પૃથ્વી</answer>
+        <answer>શુક્ર</answer>
+        <answer>મંગળ</answer>
+        <answer>ગુરુ</answer>
+        <correct>1</correct>
+      </question>	
+<question>
+        <quizquestion>કયા પ્રાણી એક જ સમયે બે બાજુ / રીતે જોઈ શકે છે?</quizquestion>
+        <answer>કાચિંડો</answer>
+        <answer>ગરોળી</answer>
+        <answer>સાપ</answer>
+        <answer>કાચબો</answer>
+        <correct>0</correct>
+      </question>	
+    </questions>
+</quiz>
